@@ -85,7 +85,7 @@ Classification Head
 ---
 
 ## 📁 Repository Structure
-
+```bibtex
 Adaptive-ViT-Registers/
 │
 ├── AMR_ViT.ipynb        # Training, evaluation, and visualization
@@ -94,7 +94,7 @@ Adaptive-ViT-Registers/
 ├── AMR-ViT_Report.pdf  # Project report / research paper
 ├── LICENSE             # License information
 └── README.md           # Project documentation
-
+```
 ---
 
 ## 🧰 Installation
@@ -103,11 +103,7 @@ Adaptive-ViT-Registers/
 git clone https://github.com/vineethk297/Adaptive-ViT-Registers.git
 cd Adaptive-ViT-Registers
 pip install -r requirements.txt
-
-## 📄 Research Paper
-
-- **Title:** Adaptive Multi-Register Vision Transformer (AMR-ViT) for Medical and Natural Image Classification    
-- 📌 Paper : AMR-Vit_Report.pdf
+```
 
 ---
 
