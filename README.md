@@ -107,7 +107,7 @@ pip install -r requirements.txt
 ## 📄 Research Paper
 
 - **Title:** Adaptive Multi-Register Vision Transformer (AMR-ViT) for Medical and Natural Image Classification    
-- 📌 Paper : 
+- 📌 Paper : AMR-Vit_Report.pdf
 
 ---
 
