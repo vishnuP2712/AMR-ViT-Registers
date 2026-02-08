@@ -42,17 +42,17 @@ This enables **input-aware computation**, improving accuracy and interpretabilit
 ### AMR-ViT Processing Pipeline
 
 Input Image
-↓
+   ↓
 Patch Embedding
-↓
+   ↓
 Global Context Extraction
-↓
+   ↓
 Gating Controller
-↓
+   ↓
 Adaptive Register Activation
-↓
+   ↓
 Transformer Encoder Stack
-↓
+   ↓
 Classification Head
 
 
@@ -100,12 +100,15 @@ Adaptive-ViT-Registers/
 ## 🧰 Installation
 
 ```bibtex
-git clone https://github.com/vineethk297/Adaptive-ViT-Registers.git
-cd Adaptive-ViT-Registers
+git clone https://github.com/vishnuP2712/AMR-ViT-Registers.git
+cd AMR-ViT-Registers
 pip install -r requirements.txt
 ```
 
 ---
+
+📄 **Paper:** *Adaptive Multi-Register Vision Transformer (AMR-ViT) for Medical and Natural Image Classification*  
+🔗 [View PDF](AMR-ViT_Report.pdf)
 
 ## 📜 Citation
 
