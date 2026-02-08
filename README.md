@@ -41,19 +41,7 @@ This enables **input-aware computation**, improving accuracy and interpretabilit
 
 ### AMR-ViT Processing Pipeline
 
-Input Image
-   ↓
-Patch Embedding
-   ↓
-Global Context Extraction
-   ↓
-Gating Controller
-   ↓
-Adaptive Register Activation
-   ↓
-Transformer Encoder Stack
-   ↓
-Classification Head
+Input Image → Patch Embedding → Global Context Extraction → Gating Controller → Adaptive Register Activation → Transformer Encoder Stack → Classification Head
 
 
 ### Conceptual Flow
